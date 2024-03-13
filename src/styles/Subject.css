@@ -1,0 +1,25 @@
+.radius {
+    border-radius: 0.5rem;
+    background-color: white;
+    align-items: center;
+    padding: 0.5rem;
+    place-items: initial;
+    margin: 0.5rem;
+}
+
+.subject-container {
+    border-radius: 0.5rem;
+    background-color: #ffe7c5;
+    padding: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.subject-btn{
+    width: 100%;
+    background-color: #FFF8E5;
+    color: black;
+}
+
+.row {
+}
